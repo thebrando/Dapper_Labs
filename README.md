@@ -1,4 +1,4 @@
-# **Looterra**
+# **[Looterra](https://www.Looterra.com)**  
 
 Looterra is a blockchain based NFT game. Mint a graphically unique planet with random on-chain resource nodes. There is 10,000 planets to be minted.
 
